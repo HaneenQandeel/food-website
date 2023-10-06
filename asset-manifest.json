@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-website/static/css/main.bbb17cc6.css",
+    "main.js": "/food-website/static/js/main.89736eec.js",
+    "static/js/787.a55a6aec.chunk.js": "/food-website/static/js/787.a55a6aec.chunk.js",
+    "index.html": "/food-website/index.html",
+    "main.bbb17cc6.css.map": "/food-website/static/css/main.bbb17cc6.css.map",
+    "main.89736eec.js.map": "/food-website/static/js/main.89736eec.js.map",
+    "787.a55a6aec.chunk.js.map": "/food-website/static/js/787.a55a6aec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb17cc6.css",
+    "static/js/main.89736eec.js"
+  ]
+}
