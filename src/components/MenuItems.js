@@ -134,7 +134,7 @@ const MenuItems = () => {
     return ( 
         <div className="max-w-[1640px] m-auto px-4 py-12">
 
-                <p className="font-bold text-orange-600 text-4xl text-center">Top Rated Menu Items</p>
+                <p className="font-bold text-orange-600 md:text-4xl text-center sm:text[14px] sm:pt-[100px]">Top Rated Menu Items</p>
                 
                 <div className="flex flex-col lg:flex-row justify-between mt-5">
                     <div>
@@ -142,7 +142,7 @@ const MenuItems = () => {
                         <div className="flex justfiy-between flex-wrap mt-[10px]">
                             <button className=" text-orange-500 font-semibold py-1 px-6 border border-orange-400 rounded-full
                             shadow">Alls</button>
-                            <button className="m-1 text-orange-500 font-semibold border py-2 px-4 border-orange-400 rounded-full shadow">Burgers</button>
+                            <button className="m-1 text-orange-500 font-semibold border py-2 px-4 border-orange-400 rounded-full shadow ">Burgers</button>
                             <button className="m-1 text-orange-500 font-semibold border py-2 px-4 border-orange-400 rounded-full shadow">Pizza</button>
                             <button className="m-1 text-orange-500 font-semibold border py-2  px-4 border-orange-400 rounded-full shadow">Pizza</button>
                             <button className="m-1 text-orange-500 font-semibold border py-2  px-4 border-orange-400 rounded-full shadow">Salad</button>

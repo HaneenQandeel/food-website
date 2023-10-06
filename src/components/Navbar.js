@@ -9,7 +9,7 @@ const Navbar = () => {
                 <div className="cursor-pointer">
                     <AiOutlineMenu size={30} />
                 </div>
-                <h2 className="text-2xl lg:text-4xl sm:text-3xl px-2">Best <span className="font-bold">Eats</span></h2>
+                <h2 className="text-2xl lg:text-4xl sm:text-3xl px-2">Chicken <span className="font-bold">Broast</span></h2>
             </div>
             <div className="hidden">
                 <p>Delivery</p>
